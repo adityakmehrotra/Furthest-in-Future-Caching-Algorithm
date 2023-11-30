@@ -8,3 +8,15 @@ Implementing the Furthest-in-Future Algorithm for page caching.
 
 
 ### Problem Output Description
+
+
+### Sample Input
+
+
+### Sample Output
+
+
+### Sample Input and Output Description
+
+
+### Time Complexity
