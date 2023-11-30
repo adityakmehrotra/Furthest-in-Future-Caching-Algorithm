@@ -15,6 +15,10 @@ For each instance, your program should output the number of page faults achieved
 2<br>
 7<br>
 1 2 3 2 3 1 2<br>
+4<br>
+12<br>
+12 3 33 14 12 20 12 3 14 33 12 20<br>
+3<br>
 
 ### Sample Output
 
