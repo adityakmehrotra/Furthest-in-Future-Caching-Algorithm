@@ -20,3 +20,4 @@ For each instance, your program should output the number of page faults achieved
 The sample input has three instances. The first has a cache which holds 2 pages. It then has a request sequence of 7 pages. The second has a cache which holds 4 pages and a request sequence of 12 pages. The third has a cache which holds 3 pages and a request sequence of 20 pages.
 
 ### Time Complexity
+The time complexity of the optimal weighted interval scheduling problem is **O(n * log(n))**.
