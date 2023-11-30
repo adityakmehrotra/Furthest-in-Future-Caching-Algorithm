@@ -5,7 +5,7 @@ Implementing the Furthest-in-Future Algorithm for page caching.
 ## Furthest Algorithm in the Future Cache Paging Problem
 
 ### Problem Input Description
-
+For each instance, the first line will be a positive integer, giving the number of pages in the cache. The second line of the instance will be a positive integer giving the number of page requests. The third and final line of each instance will be space delimited positive integers which will be the request sequence.
 
 ### Problem Output Description
 
