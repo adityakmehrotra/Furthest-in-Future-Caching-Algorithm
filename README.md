@@ -23,7 +23,9 @@ For each instance, your program should output the number of page faults achieved
 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 <br>
 
 ### Sample Output
-
+4<br>
+6<br>
+12<br>
 
 ### Sample Input and Output Description
 The sample input has three instances. The first has a cache which holds 2 pages. It then has a request sequence of 7 pages. The second has a cache which holds 4 pages and a request sequence of 12 pages. The third has a cache which holds 3 pages and a request sequence of 20 pages.
