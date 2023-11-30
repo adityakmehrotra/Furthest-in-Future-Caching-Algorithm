@@ -11,7 +11,10 @@ For each instance, the first line will be a positive integer, giving the number 
 For each instance, your program should output the number of page faults achieved by furthest in the future paging assuming the cache is initially empty at the start of processing the page request sequence. One output should be given per line.
 
 ### Sample Input
-
+3<br>
+2<br>
+7<br>
+1 2 3 2 3 1 2<br>
 
 ### Sample Output
 
