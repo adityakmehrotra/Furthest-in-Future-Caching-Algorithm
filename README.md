@@ -1,6 +1,6 @@
 # Furthest-in-Future-Caching-Algorithm
 
-Implementing the Furthest-in-Future Algorithm for page caching.
+Implementing the Furthest-in-Future Algorithm for page caching, which is the optimal solution for Page Caching in time and space.
 
 ## Furthest Algorithm in the Future Cache Paging Problem
 
