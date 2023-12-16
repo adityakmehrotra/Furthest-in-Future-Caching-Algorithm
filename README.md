@@ -35,4 +35,4 @@ The time complexity of the optimal weighted interval scheduling problem is **O(n
 
 ### Run the Code
 - Downloard the required files:
-  - `Furthest_Algorithm.java`: Java file with the algorithm that counts the inversions in 2 arrays optimally in terms of time and space.
+  - `Furthest_Algorithm.java`: Java file with the algorithm that counts and returns the number of page faults achieved by furthest in the future paging optimally in terms of time and space.
