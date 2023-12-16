@@ -37,3 +37,4 @@ The time complexity of the optimal weighted interval scheduling problem is **O(n
 - Downloard the required files:
   - `Furthest_Algorithm.java`: Java file with the algorithm that counts and returns the number of page faults achieved by furthest in the future paging optimally in terms of time and space.
   - `Makefile`: Makefile to build the Java file (`Furthest_Algorithm.java`) through the compiler and run the algorithm in the Java file (`Furthest_Algorithm.java`).
+- You can run the `Furthest_Algorithm.java` file through your IDE/Console.
