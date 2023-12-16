@@ -34,3 +34,4 @@ The sample input has three instances. The first has a cache which holds 2 pages.
 The time complexity of the optimal weighted interval scheduling problem is **O(n * log(n))**.
 
 ### Run the Code
+- Downloard the required files:
