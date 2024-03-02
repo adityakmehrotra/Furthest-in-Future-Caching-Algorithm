@@ -41,4 +41,4 @@ The time complexity of the optimal weighted interval scheduling problem is **O(n
 - You can use the Makefile to build the Java file (`Furthest_Algorithm.java`) through the compiler and run the algorithm in the Java file (`Furthest_Algorithm.java`).
 
 ### Last Updated
-02/13/2024
+03/02/2024
